@@ -1399,11 +1399,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Contact\\Documents\\GitHub\\TaskManagerAPI\\TaskManagerAPI\\TaskManagerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Contact\\Documents\\GitHub\\New folder\\TaskManagerAPI\\TaskManagerAPI.csproj",
       "projectName": "TaskManagerAPI",
-      "projectPath": "C:\\Users\\Contact\\Documents\\GitHub\\TaskManagerAPI\\TaskManagerAPI\\TaskManagerAPI.csproj",
+      "projectPath": "C:\\Users\\Contact\\Documents\\GitHub\\New folder\\TaskManagerAPI\\TaskManagerAPI.csproj",
       "packagesPath": "C:\\Users\\Contact\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Contact\\Documents\\GitHub\\TaskManagerAPI\\TaskManagerAPI\\obj\\",
+      "outputPath": "C:\\Users\\Contact\\Documents\\GitHub\\New folder\\TaskManagerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
